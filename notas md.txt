@@ -1,1 +1,1 @@
-Capacitación y taller git hub equipo Team QA, con el fin de aprender a crear repositorios públicos y creación de ramas, subir cambios.
+Capacitación y taller git hub equipo Team QA, con el fin de aprender a crear repositorios públicos y creación de ramas, subir cambios. "Cambio realizado desde la web"
