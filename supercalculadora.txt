@@ -1,1 +1,1 @@
-Resultado = 555999
+Resultado = 555
